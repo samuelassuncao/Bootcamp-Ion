@@ -1,0 +1,12 @@
+/home/decom/Área de Trabalho/Treinamento tarde Samuel/Bootcamp-Ion/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.csproj.AssemblyReference.cache
+/home/decom/Área de Trabalho/Treinamento tarde Samuel/Bootcamp-Ion/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.GeneratedMSBuildEditorConfig.editorconfig
+/home/decom/Área de Trabalho/Treinamento tarde Samuel/Bootcamp-Ion/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.AssemblyInfoInputs.cache
+/home/decom/Área de Trabalho/Treinamento tarde Samuel/Bootcamp-Ion/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.AssemblyInfo.cs
+/home/decom/Área de Trabalho/Treinamento tarde Samuel/Bootcamp-Ion/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.csproj.CoreCompileInputs.cache
+/home/decom/Área de Trabalho/Treinamento tarde Samuel/Bootcamp-Ion/Tarefas/src/Tarefas.DAO/bin/Debug/net7.0/Tarefas.DAO.deps.json
+/home/decom/Área de Trabalho/Treinamento tarde Samuel/Bootcamp-Ion/Tarefas/src/Tarefas.DAO/bin/Debug/net7.0/Tarefas.DAO.dll
+/home/decom/Área de Trabalho/Treinamento tarde Samuel/Bootcamp-Ion/Tarefas/src/Tarefas.DAO/bin/Debug/net7.0/Tarefas.DAO.pdb
+/home/decom/Área de Trabalho/Treinamento tarde Samuel/Bootcamp-Ion/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.dll
+/home/decom/Área de Trabalho/Treinamento tarde Samuel/Bootcamp-Ion/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/refint/Tarefas.DAO.dll
+/home/decom/Área de Trabalho/Treinamento tarde Samuel/Bootcamp-Ion/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.pdb
+/home/decom/Área de Trabalho/Treinamento tarde Samuel/Bootcamp-Ion/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/ref/Tarefas.DAO.dll
