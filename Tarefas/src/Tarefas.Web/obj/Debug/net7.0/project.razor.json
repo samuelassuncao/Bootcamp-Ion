@@ -18685,6 +18685,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/decom/Área de Trabalho/Treinamento tarde Samuel/Bootcamp-Ion/Tarefas/src/Tarefas.Web/Views/Tarefas/Details.cshtml",
+      "TargetPath": "Views\\Tarefas\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/decom/Área de Trabalho/Treinamento tarde Samuel/Bootcamp-Ion/Tarefas/src/Tarefas.Web/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
