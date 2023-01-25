@@ -1,0 +1,23 @@
+@model IEnumerable<Tarefas.Web.Models.TarefaViewModel>
+
+<table>
+    <thead>
+        <th>
+            @Html.DisplayNameFor(model => model.Titulo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Descricao)
+        </th>
+    </thead>
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @item.Titulo
+        </td>
+        <td>
+            @item.Descricao
+        </td>
+    </tr>
+    }
+</table>
